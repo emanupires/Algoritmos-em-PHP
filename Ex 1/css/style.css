@@ -1,0 +1,60 @@
+:root {
+    --branco: #fcf8e8;
+    --ver-texto: #d45538;
+    --botao-bg: #c0d7c8;
+    --botao-texto: #f59a62;
+}
+
+body {
+    background-color: var(--branco);
+}
+
+.titulo-form {
+    text-align: center;
+    font-size: 2.5rem;
+    color: var(--ver-texto);
+    text-shadow: 1px 1px var(--botao-bg);  
+    border-bottom: 1px solid var(--botao-bg);
+    padding: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.forms {
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.nome {
+    color: var(--botao-texto);
+    text-shadow: 1px 1px 4px var(--botao-bg);
+    margin-bottom: 25px;
+}
+
+button {
+    background-color: var(--botao-bg);
+    font-size: 1rem;
+    color: var(--branco);
+    height: 30px;
+    width: 180px;
+    border: 2px solid var(--branco);
+    border-radius: 25px;
+    margin-top: 20px;
+}
+
+p {
+    padding: 100px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 3.5rem;
+    color: var(--ver-texto);
+    text-shadow: 1px 2px var(--botao-bg);
+}
+
+input[type=text] {
+    width: 20%;
+    height: 30%;
+    border-color: var(--ver-texto);
+    padding: 12px 20px;
+    margin: 8px;
+    box-sizing: border-box;
+}
