@@ -1,4 +1,4 @@
-<h1 align="center"> Algoritmos </h1>
+<h1> Algoritmos </h1>
 
 ![Logo PHP](https://user-images.githubusercontent.com/101363952/178618348-910838f7-128c-4abf-abdd-0780bcad8275.png)
 
