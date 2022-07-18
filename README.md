@@ -14,6 +14,13 @@ Nesse repositório, estou armazenando minhas resoluções das atividades de algo
 
 ### :hammer: Exercício 2: ### 
 
+- `Fazer um programa que leia o nome de uma pessoa e mostre seu salário`: atividade realizada com PHP, HTML e CSS. Nesse exercício, defini três opções de profissões (Cozinheira, Professora e Diretora) e, conforme o cargo selecionado, o salário é mostrado correspondentemente - feito em hard code. Além disso, são feitas verficiações utilizando exceptions do PHP para impedir nomes inválidos.
+
+![Exemplo de como o programa fuciona](https://user-images.githubusercontent.com/101363952/179431658-efe89833-143c-43ab-8ca0-b349cce4f382.png)
+
+### :hammer: Exercício 3: ### 
+
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 <sub align="center">Créditos da imagem: Flaticon.</sub>
