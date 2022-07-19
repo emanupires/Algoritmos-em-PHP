@@ -1,0 +1,72 @@
+:root {
+    --fundo: #F3FBFB;
+    --texto: #272343;
+    --botao: #FFD803;
+    --texto2: #BAE8E8;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: var(--fundo);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px var(--texto2);
+    border-radius: 10px;
+    color: var(--texto);
+}
+
+.titulo-form {
+    margin: 0 0 30px;
+    padding: 0;
+    color: var(--botao);
+    text-shadow: 1px 1px 10px var(--fundo);
+    text-align: center;
+    font-size: 25px;
+}
+
+.form {
+    position: relative;
+    font-size: 20px;
+}
+
+.form input, select {
+    width: 100%;
+    padding: 10px 5px;
+    font-size: 14px;
+    color: var(--texto);
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid var(--botao);
+    outline: none;
+    background: transparent;
+    padding: 15px;
+}
+
+.botao {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    width: 300px;
+    height: 40px;
+    background-color: var(--botao);
+    color: var(--texto);
+    border-style: none;
+    border-radius: 10px;
+}
+
+.texto {
+    font-size: 24px;
+    padding: 20px;
+    color: var(--texto);
+}
+
+.texto__salario {
+    text-align: center;
+    color: var(--botao);
+    text-shadow: 1px 1px var(--texto2);
+}
+
